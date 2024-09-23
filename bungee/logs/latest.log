@@ -1,0 +1,70 @@
+[13:15:04] [main/INFO]: Using mbed TLS based native cipher.
+[13:15:04] [main/INFO]: Using zlib based native compressor.
+[13:15:04] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:f6069e2:513
+[13:15:04] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[13:15:04] [main/INFO]: Epoll is working, utilising it!
+[13:15:04] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[13:15:04] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[13:15:04] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[13:15:04] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[13:15:04] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[13:15:04] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[13:15:04] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=513, git=f6069e2)
+[13:15:04] [main/INFO]: Attempting to Jenkins download module cmd_alert v513
+[13:15:05] [main/INFO]: Download complete
+[13:15:05] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=513, git=f6069e2)
+[13:15:05] [main/INFO]: Attempting to Jenkins download module cmd_find v513
+[13:15:05] [main/INFO]: Download complete
+[13:15:05] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=513, git=f6069e2)
+[13:15:05] [main/INFO]: Attempting to Jenkins download module cmd_list v513
+[13:15:05] [main/INFO]: Download complete
+[13:15:05] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=513, git=f6069e2)
+[13:15:05] [main/INFO]: Attempting to Jenkins download module cmd_send v513
+[13:15:05] [main/INFO]: Download complete
+[13:15:05] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=513, git=f6069e2)
+[13:15:05] [main/INFO]: Attempting to Jenkins download module cmd_server v513
+[13:15:05] [main/INFO]: Download complete
+[13:15:05] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=513, git=f6069e2)
+[13:15:05] [main/INFO]: Attempting to Jenkins download module reconnect_yaml v513
+[13:15:05] [main/INFO]: Download complete
+[13:15:05] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[13:15:05] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[13:15:05] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[13:15:05] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[13:15:05] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[13:15:05] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[13:15:05] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[13:15:05] [main/WARN]: :>  
+[13:15:05] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
+[13:15:05] [main/WARN]: :>  
+[13:15:05] [main/WARN]: :>  This plugin wasn't tested to be 'working'
+[13:15:05] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
+[13:15:05] [main/WARN]: :>  apart from the versions listed below:
+[13:15:05] [main/WARN]: :>  
+[13:15:05] [main/WARN]: :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+[13:15:05] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+[13:15:05] [main/WARN]: :>  - FlameCord: 1.1.1
+[13:15:05] [main/WARN]: :>  
+[13:15:05] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
+[13:15:05] [main/WARN]: :>  
+[13:15:05] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
+[13:15:05] [main/WARN]: :>  
+[13:15:05] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[13:15:05] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
+[13:15:06] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
+[13:15:06] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+[13:15:06] [main/WARN]: Forced host server pvp is not defined
+[13:15:06] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[13:15:06] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[13:15:06] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[13:15:06] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[13:15:06] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[13:15:06] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:f6069e2:513 by WaterfallMC
+[13:15:06] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[13:15:06] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[13:15:06] [main/INFO] [EaglercraftXBungee]: Downloading from maven: https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.45.0.0/sqlite-jdbc-3.45.0.0.jar
+[13:15:06] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Downloading new certificate: https://eaglercraft.com/backup.cert
+[13:15:06] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[13:15:06] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+[13:15:06] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[13:15:06] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/eaglercraft-server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.d0d0f229ae7bd645a0eb36ba9c42d141e2344d8c.cert
